@@ -1,5 +1,5 @@
 
-//Situación1
+//SituaciÃ³n1
 # include <iostream>
 
 using namespace std;
