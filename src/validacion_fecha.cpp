@@ -72,6 +72,7 @@ int main (){
 				break;
 			default :
 				cout<<"Error, no se permite esta fecha\n";
+			break;
 		}
 		
 	}
@@ -84,4 +85,5 @@ int main (){
 	cout<<"Las fechas ingresadas son del ano: "<<ano<<" del mes "<<mes<<" del dia "<<dia<<" y el mes actual para la promocion es el : "<<mesact;
 	return 0;
 }
+
 
