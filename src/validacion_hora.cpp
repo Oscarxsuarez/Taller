@@ -40,5 +40,8 @@ int main (){
 	
 	}	
 	else cout<<"Hora invalida";
+
+	return 0;
+}
 	
 
