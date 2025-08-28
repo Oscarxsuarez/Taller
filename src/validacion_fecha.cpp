@@ -11,7 +11,7 @@ int main (){
 	cout<<"Digite su dia de nacimeinto"<<endl; cin>>dia;
 	
 	if (ano<2008  && mesact==mes  && dia<=31) {
-		switch(mesact){
+		switch(mes){
 			case 1 :
 				cout<<"¡Tienes la promocion especial por cumplir en Enero!\n";
 				break;
@@ -85,5 +85,6 @@ int main (){
 	cout<<"Las fechas ingresadas son del ano: "<<ano<<" del mes "<<mes<<" del dia "<<dia<<" y el mes actual para la promocion es el : "<<mesact;
 	return 0;
 }
+
 
 
