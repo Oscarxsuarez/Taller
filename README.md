@@ -1,11 +1,12 @@
  # Taller
 
   Integrantes del grupo
-    Oscar Suarez Cañon
-    Nicolas Perez
-    Andres Pardo
+    Oscar Suarez Cañon |
+     Nicolas Perez | 
+     Andres Pardo
 
   Curso: Pensamiento Algoritmico
+  
   Fecha: 27 de Agosto del 2025
 
 
